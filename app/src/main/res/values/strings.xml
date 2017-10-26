@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Inter201509091</string>
+    <string name="Tabuada">A tabuada do número:</string>
+    <string name="Ate">Até o número:</string>
+    <string name="calcular">Calcular</string>
+</resources>
